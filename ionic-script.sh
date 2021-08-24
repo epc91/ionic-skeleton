@@ -20,3 +20,5 @@ cd skeletonApp
 ionic generate page login
 
 ionic serve
+
+# ionic serve --lab
